@@ -3,3 +3,6 @@ git init
 git add 
 git commit -m "msg"
 git status 
+
+
+added new changes for more exploration 
